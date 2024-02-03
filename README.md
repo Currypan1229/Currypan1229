@@ -1,6 +1,6 @@
 # Currypan1229 Information
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,sqlite,gradle&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,sqlite,gradle,js&theme=light)](https://skillicons.dev)
 
 ## Editor | IDEA | Application
 [![My Applications](https://skillicons.dev/icons?i=idea,vscode,stackoverflow,discord,github,eclipse&theme=light)](https://skillicons.dev)
