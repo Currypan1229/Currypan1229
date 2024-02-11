@@ -123,11 +123,8 @@
 ## Service
 
 <p align="left">
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>
-  </a>
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a" alt="eclipse" width="40" height="40"/>
+  <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a" alt="stackoverflow" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="40" height="40"/>
@@ -142,8 +139,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/replit/replit-original-wordmark.svg" alt="replit" width="40" height="40"/>
   </a>
 </p>
-
-[![My Applications](https://skillicons.dev/icons?i=idea,vscode,stackoverflow,discord,github,eclipse&theme=light)](https://skillicons.dev)
 
 ## Github Stats
 
