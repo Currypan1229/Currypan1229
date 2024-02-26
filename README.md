@@ -142,9 +142,9 @@
 
 ## Github Stats
 
-![Currypan1229's GitHub stats](https://github-readme-stats.vercel.app/api?username=currypan1229&bg_color=30,ff4500,ffa500,5ef85e&title_color=fff0f5&text_color=fff0f5&icon_color=fff0f5&count_private=true&show_icons=true&layout=compact&langs_count=8)
+![Currypan1229's GitHub stats](https://github-readme-stats.vercel.app/api?username=currypan1229&bg_color=30,ff4500,ffa500,5ef85e&title_color=fff0f5&text_color=fff0f5&icon_color=fff0f5&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Currypan1229&hide=python)](https://github.com/Currypan1229)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Currypan1229&hide=python&layout=compact&langs_count=8)](https://github.com/Currypan1229)
 
 # Discord
 
