@@ -1,5 +1,9 @@
 # Currypan1229 Information
 
+## Introduction
+Java大好き人間
+Java以外は許さぬ
+
 ## Language
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
