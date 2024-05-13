@@ -20,12 +20,6 @@ BDでjsを使ってpl作るよりjavaでDiscord Client作ったほうが楽な�
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
   </a>
@@ -35,29 +29,14 @@ BDでjsを使ってpl作るよりjavaでDiscord Client作ったほうが楽な�
   <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/>
   </a>
-  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/ja-jp/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
   <a href="https://discord.js.org/ target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="discordjs" width="40" height="40"/>
-  </a>
-  <a href="https://discordpy.readthedocs.io/" target="_blank" rel="noreferrer">
-    <img src="https://discordpy.readthedocs.io/ja/latest/_static/discord_py_logo.ico" alt="discordpy" width="40" height="40"/>
   </a>
   <a href="https://jda.wiki//" target="_blank" rel="noreferrer">
     <img src="https://jda.wiki/assets/images/logo-round.png" alt="discordpy" width="40" height="40"/>
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dot-net" width="40" height="40"/>
-  </a>
-  <a href="https://eslint.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/ja/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="eslint" width="40" height="40"/>
   </a>
   <a href="https://gradle.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40"/>
@@ -73,9 +52,6 @@ BDでjsを使ってpl作るよりjavaでDiscord Client作ったほうが楽な�
   </a>
   <a href="https://openal.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openal/openal-original.svg" alt="openal" width="40" height="40"/>
-  </a>
-  <a href="https://php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://yaml.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" alt="yaml" width="40" height="40"/>
