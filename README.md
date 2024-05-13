@@ -1,8 +1,7 @@
 # Currypan1229 Information
 
 ## Introduction
-Java大好き人間
-Java以外は許さぬ
+BDでjsを使ってpl作るよりjavaでDiscord Client作ったほうが楽な気がした私です。
 
 ## Language
 <p align="left">
