@@ -123,7 +123,8 @@ BDでjsを使ってpl作るよりjavaでDiscord Client作ったほうが楽な�
 
 ![Currypan1229's GitHub stats](https://github-readme-stats.vercel.app/api?username=currypan1229&icon_color=fff0f5&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Currypan1229&hide=python&layout=compact&langs_count=8)](https://github.com/Currypan1229)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Currypan1229&hide=python&layout=compact&langs_count=8)](https://github.com/Currypan1229
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=Currypan1229&hide=python&layout=compact&langs_count=8](https://github-readme-stats.vercel.app/api/wakatime?username=Currypan1229&layout=compact))](https://github.com/Currypan1229))
 
 # Discord
 
