@@ -1,7 +1,9 @@
 # Currypan1229's Information
 
 ## Introduction
-BDでjsを使ってpl作るよりjavaでDiscord Client作ったほうが楽な気がした私です。
+Im a student programmer.
+I have some secret, age and gender.
+Please guess and ask for it
 
 ## Language
 <p align="left">
