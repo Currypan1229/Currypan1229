@@ -3,7 +3,7 @@
 ## Introduction
 Im a student programmer.
 I have some secret, age and gender.
-Please guess and ask for it
+Please dont guess or ask for it
 
 ## Language
 <p align="left">
