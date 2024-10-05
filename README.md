@@ -75,12 +75,6 @@ Please dont guess or ask for it
   <a href="https://code.visualstudio.com/insiders/" target="_blank" rel="noreferrer">
     <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxnuwhvZJBcOoTALhdIGiPXS1OOSTyB4LiKHoZz1ST0iymmPJkVNjR4mRtoAuG4bAsV6HZnLBwea.w9eczsTfIwA-&format=source" alt="vscodeinsiders" width="40" height="40"/>
   </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.sanity.io/images/fuvbjjlp/production/59311eb2aa91009ac2a4eac41a6b4ae0e26ccda2-22x24.svg" alt="unity" width="40" height="40"/>
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
-  </a>
   <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
   </a>
