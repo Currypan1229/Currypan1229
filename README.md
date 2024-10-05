@@ -72,9 +72,6 @@ Please dont guess or ask for it
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
   <a href="https://code.visualstudio.com/insiders/" target="_blank" rel="noreferrer">
     <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxnuwhvZJBcOoTALhdIGiPXS1OOSTyB4LiKHoZz1ST0iymmPJkVNjR4mRtoAuG4bAsV6HZnLBwea.w9eczsTfIwA-&format=source" alt="vscodeinsiders" width="40" height="40"/>
   </a>
