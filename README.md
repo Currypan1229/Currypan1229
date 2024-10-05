@@ -37,29 +37,17 @@ Please dont guess or ask for it
   <a href="https://jda.wiki//" target="_blank" rel="noreferrer">
     <img src="https://jda.wiki/assets/images/logo-round.png" alt="discordpy" width="40" height="40"/>
   </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dot-net" width="40" height="40"/>
-  </a>
   <a href="https://gradle.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40"/>
   </a>
   <a href="https://mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://npmjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npmjs" width="40" height="40"/>
-  </a>
   <a href="https://opengl.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40"/>
   </a>
-  <a href="https://openal.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openal/openal-original.svg" alt="openal" width="40" height="40"/>
-  </a>
   <a href="https://yaml.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" alt="yaml" width="40" height="40"/>
-  </a>
-  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
   </a>
 </p>
 
