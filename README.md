@@ -95,9 +95,6 @@ Please dont guess or ask for it
   <a href="https://cloudflare.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original-wordmark.svg" alt="cloudflare" width="40" height="40"/>
   </a>
-  <a href="https://replit.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/replit/replit-original-wordmark.svg" alt="replit" width="40" height="40"/>
-  </a>
 </p>
 
 ## Github Stats
