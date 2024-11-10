@@ -1,9 +1,9 @@
 # Currypan1229's Information
 
 ## Introduction
-Im a student programmer.
-I have some secret, age and gender.
-Please dont guess or ask for it
+Im a student programmer.<br>
+I have some secret, age and gender.<br>
+Please dont guess or ask for it.<br>
 
 ## Language
 <p align="left">
