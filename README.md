@@ -103,6 +103,7 @@ Please dont guess or ask for it
 ## Github Stats
 
 [![Currypan1229's GitHub stats](https://github-readme-stats.vercel.app/api?username=currypan1229&icon_color=fff0f5&count_private=true&show_icons=true)](https://github.com/@Currypan1229)
+[![Currypan1229's GitHub stats](https://github-profile-trophy.vercel.app/?username=currypan1229&no-bg=true&title=-Stars,-Reviews,-Followers,-Repositories)](https://github.com/@Currypan1229)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Currypan1229&layout=compact&langs_count=8)](https://github.com/@Currypan1229)
 
