@@ -47,10 +47,10 @@ Please dont guess or ask for it.<br>
   <a href="https://discord.js.org/ target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="discord.js" width="40" height="40"/>
   </a>
-  <a href="https://jda.wiki//" target="_blank" rel="noreferrer">
+  <a href="https://jda.wiki/" target="_blank" rel="noreferrer">
     <img src="https://jda.wiki/assets/images/logo-round.png" alt="java-discord-api" width="40" height="40"/>
   </a>
-  <a href="https://jda.wiki//" target="_blank" rel="noreferrer">
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://tse4.mm.bing.net/th/id/OIP.UmGbu3XQo3NpWM5SV5h43wAAAA" alt="spring-framework" width="40" height="40"/>
   </a>
 </p>
