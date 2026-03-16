@@ -44,7 +44,7 @@ Please dont guess or ask for it.<br>
   <a href="https://gradle.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40"/>
   </a>
-  <a href="https://discord.js.org/ target="_blank" rel="noreferrer">
+  <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="discord.js" width="40" height="40"/>
   </a>
   <a href="https://jda.wiki/" target="_blank" rel="noreferrer">
