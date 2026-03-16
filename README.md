@@ -20,7 +20,7 @@ Please dont guess or ask for it.<br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="40" height="40"/>
   </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
@@ -31,27 +31,31 @@ Please dont guess or ask for it.<br>
   <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/>
   </a>
-  <a href="https://discord.js.org/ target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="discordjs" width="40" height="40"/>
+  <a href="https://mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://jda.wiki//" target="_blank" rel="noreferrer">
-    <img src="https://jda.wiki/assets/images/logo-round.png" alt="discordpy" width="40" height="40"/>
+</p>
+
+## Frameworks & Libraries
+<p align="left">
+  <a href="https://opengl.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40"/>
   </a>
   <a href="https://gradle.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40"/>
   </a>
-  <a href="https://mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <a href="https://discord.js.org/ target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="discord.js" width="40" height="40"/>
   </a>
-  <a href="https://opengl.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40"/>
+  <a href="https://jda.wiki//" target="_blank" rel="noreferrer">
+    <img src="https://jda.wiki/assets/images/logo-round.png" alt="java-discord-api" width="40" height="40"/>
   </a>
-  <a href="https://yaml.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" alt="yaml" width="40" height="40"/>
+  <a href="https://jda.wiki//" target="_blank" rel="noreferrer">
+    <img src="https://tse4.mm.bing.net/th/id/OIP.UmGbu3XQo3NpWM5SV5h43wAAAA" alt="spring-framework" width="40" height="40"/>
   </a>
 </p>
 
-## Editor | IDEA | Application
+## Editor | Application
 
 <p align="left">
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
@@ -65,9 +69,6 @@ Please dont guess or ask for it.<br>
   </a>
   <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
@@ -85,9 +86,6 @@ Please dont guess or ask for it.<br>
 <p align="left">
   <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a" alt="stackoverflow" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="40" height="40"/>
   </a>
   <a href="https://cloudflare.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original-wordmark.svg" alt="cloudflare" width="40" height="40"/>
